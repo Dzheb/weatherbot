@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+TeleBot.csproj
+token.txt
+token_w.txt
